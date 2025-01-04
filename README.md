@@ -1,3 +1,6 @@
+[![MasterHead](https://github.com/user-attachments/assets/5b136961-c2fa-48cb-93fc-642ee99465eb)](https://your-link.com)
+
+
 <h1 align="center">Hey 👋! <br>My name is Roshan Sharma.<br>I'm a MERN Stack  Developer, from India</h1>
 
 ###
@@ -34,17 +37,12 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/roshansharmaa/roshansharmaa/output/snake.svg" alt="Snake animation" />
 
 
 ###
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshansharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="roshansharmaa" /> </p>
 
 - 🔭 I’m currently working on **Attendance management**
 
