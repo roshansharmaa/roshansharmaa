@@ -7,7 +7,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshansharmaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshansharmaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+ 
 </div>
 
 
@@ -32,9 +32,7 @@
   <a href="roshan.sharma.bus@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/roshansharm.aa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+  
 </div>
 
 
