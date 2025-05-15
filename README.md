@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" alt="MasterHead">
-</div>
+
 
 
 <h1 align="center">Hey 👋! <br> Roshan Sharma.<br>I'm a MERN Stack  Developer, from India</h1>
